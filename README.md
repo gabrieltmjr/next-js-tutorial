@@ -12,3 +12,5 @@ Each step is a different commit.
 1. [Next JS - From JavaScript to React](https://nextjs.org/learn/foundations/from-javascript-to-react)<br>
 2. [Next JS - From React to Next.JS](https://nextjs.org/learn/foundations/from-react-to-nextjs)
 3. [Next JS - Create Your First App](https://nextjs.org/learn/basics/create-nextjs-app)
+
+The Next JS full tutorial can be found [here](https://nextjs.org/learn/foundations/about-nextjs).
