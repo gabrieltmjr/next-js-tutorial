@@ -5,6 +5,8 @@ Repository used for learning and testing next-js features.<br>
 The code is divided in the steps by following the tutorial that is present in the links below.<br>
 Each step is a different commit.
 
+**Warning:** Dependencies are not included in this repository. Make sure to install them if you follow these commits
+
 ## Next JS Tutorials followed
 
 1. [Next JS - From JavaScript to React](https://nextjs.org/learn/foundations/from-javascript-to-react)<br>
