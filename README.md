@@ -1,6 +1,7 @@
 # Next-JS-Tutorial
 
 Repository used for learning and testing next-js features.<br>
+Now using Node 20
 
 The code is divided in the steps by following the tutorial that is present in the links below.<br>
 Each step is a different commit.
